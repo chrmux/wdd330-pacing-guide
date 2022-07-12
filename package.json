@@ -2,7 +2,7 @@
   "name": "wdd330-pacing-guide",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/chrmux/wdd330-pacing-guide.git",
+  "homepage": "https://chrmux.io/wdd330-pacing-guide",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
